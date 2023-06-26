@@ -5,7 +5,7 @@ import { useRouter } from 'next/router';
 
 const WELCOME_MESSAGE = "\
 Welcome to the United Way of Metro Atlanta - \
-Emergency Food and Shelter Program Dashboard\
+Emergency Food and Shelter Program Dashboard!\
 "
 
 const WELCOME_PROMPT = "\
