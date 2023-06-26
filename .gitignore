@@ -37,3 +37,5 @@ yarn-error.log*
 /public/workbox-*.js.map
 
 /tmp
+
+next.config.js
