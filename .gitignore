@@ -38,4 +38,4 @@ yarn-error.log*
 
 /tmp
 
-next.config.js
+/pages/next.config.js
