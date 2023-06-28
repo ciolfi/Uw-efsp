@@ -125,7 +125,8 @@ export default function AboutPage() {
             </ul>
           </span>
         </div>
-        {/* <div className={styles.card}>
+        {/* Videos and slides removed; links not working
+        <div className={styles.card}>
           <h2 style={{margin: 'auto'}}>Project Overview Presentation</h2>
           <br></br>
           <button className={styles.button} style={{margin: 'auto'}}>
